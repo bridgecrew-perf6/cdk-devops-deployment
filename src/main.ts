@@ -1,4 +1,4 @@
-import { App } from "aws-cdk-lib"
+import { App } from "aws-cdk-lib";
 import { DevOpsDeploymentStack } from './devops-deployment-stack';
 
 // for development, use account/region from cdk cli
